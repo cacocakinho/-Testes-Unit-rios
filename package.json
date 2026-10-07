@@ -1,0 +1,25 @@
+{
+  "name": "-testes-unit-rios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cacocakinho/-Testes-Unit-rios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cacocakinho/-Testes-Unit-rios/issues"
+  },
+  "homepage": "https://github.com/cacocakinho/-Testes-Unit-rios#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
